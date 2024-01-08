@@ -2505,8 +2505,8 @@
     (property "Datasheet" "~" (at 120.142 154.178 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3b8ca227-0def-4465-95b8-81dbd2cec7e6))
-    (pin "2" (uuid 0c6048f8-487e-4d26-8aad-6d33d3b08559))
+    (pin "1" (uuid 3f8a798c-f186-4344-8757-c831debeac4f))
+    (pin "2" (uuid 54280afe-1777-4889-8271-e02096b8ad46))
     (instances
       (project "vco"
         (path "/7ad23056-9872-4bcb-9d54-52246d8eb9ad"
