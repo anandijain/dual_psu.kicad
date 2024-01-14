@@ -11,3 +11,10 @@ https://www.youtube.com/playlist?list=PL79kqjVnD2ENdJDDSTUD3ZMdZPhVVu8yw
 # todo
 - vcf 
 - envelope generator
+
+
+build notes
+
+* for the m2 standoffs i got, use 1/8 in holes and use the m3x12 screws into the acryllic and there is no need to countersink 
+* to mount pots to the acryllic, drill 9/32 " holes 
+* for 1/4" jack sockets use 3/8" holes 
